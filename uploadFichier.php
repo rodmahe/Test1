@@ -5,7 +5,6 @@
     <title></title>
 </head>
 <body>
-      Bonjour
        
        
 <!--- formulaire d'envoi de fichiers
